@@ -97,7 +97,17 @@ chmod +x regenerar_initramfs_faltantes.sh
 
 ## 🔐 Advertencia / Warning / Warnung
 
+### 🇬🇧 English
+
+This script doesn't modify kernel files; it only regenerates the boot files (initramfs) if they're missing. Be sure to review the results if you encounter any errors during the process.
+
+#### 🇪🇸 Español
+
 Este script no modifica archivos del kernel, solo regenera los archivos de arranque (`initramfs`) si están ausentes. Asegúrate de revisar los resultados si se producen errores durante el proceso.
+
+### 🇩🇪 Deutsch
+
+Dieses Skript ändert keine Kerneldateien, es generiert nur Bootdateien (initramfs) neu, wenn diese fehlen. Überprüfen Sie unbedingt die Ergebnisse, wenn während des Vorgangs Fehler auftreten.
 
 ---
 
